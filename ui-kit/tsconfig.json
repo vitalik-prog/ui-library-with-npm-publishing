@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "jsx": "react",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "lib": [
+      "es2015",
+      "dom"
+    ],
+    "outDir": "./dist/",
+    "sourceMap": true,
+    "declaration": true // this property give possibility to take hint from typescript about properties needed on component
+  },
+  "include": [ // folder that include compilation
+    "src"
+  ],
+  "exclude": ["node_modules", "dist"] // folder that exclude compilation
+}
