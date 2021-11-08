@@ -17,5 +17,5 @@
   "include": [ // folder that include compilation
     "src"
   ],
-  "exclude": ["node_modules", "dist"] // folder that exclude compilation
+  "exclude": ["node_modules", "dist", "./src/stories"] // folder that exclude compilation
 }
