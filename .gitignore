@@ -1,1 +1,3 @@
 .idea
+./ui-testing-project/node_modules
+./ui-kit/node_modules
