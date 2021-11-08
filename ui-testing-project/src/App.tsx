@@ -1,5 +1,5 @@
 import React from 'react';
-import {MyButton, MyInput} from 'ui-kit'
+import {MyButton, MyInput} from 'ui-kit-vitalikvv'
 import './App.css';
 
 function App() {
